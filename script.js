@@ -48,3 +48,9 @@ AOS.init({
   //     }
   //   }
   // });
+
+
+// aos js
+AOS.init({
+  duration: 1200,
+})
